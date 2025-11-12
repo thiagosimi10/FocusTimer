@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.focustimer.app-mergeDebugResources-42:/layout/activity_statistics.xml",
+        "source": "com.example.focustimer.app-main-45:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "com.example.focustimer.app-mergeDebugResources-42:/layout/item_session.xml",
+        "source": "com.example.focustimer.app-main-45:/layout/item_session.xml"
+    },
+    {
+        "merged": "com.example.focustimer.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.example.focustimer.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.focustimer.app-mergeDebugResources-42:/layout/activity_splash.xml",
+        "source": "com.example.focustimer.app-main-45:/layout/activity_splash.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FocusTimer" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/accent_alt</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <!-- Background -->
+        <item name="android:colorBackground">@color/background_primary</item>
+        <item name="colorSurface">@color/background_secondary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <!-- Customize status bar and nav bar -->
+        <item name="android:statusBarColor">@color/background_primary</item>
+        <item name="android:navigationBarColor">@color/background_primary</item>
+    </style>
+</resources>

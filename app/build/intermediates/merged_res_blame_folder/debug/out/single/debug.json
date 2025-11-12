@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_coffee.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\coffee.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_ocean.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\ocean.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_beep.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\beep.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\drawable_ic_focus_logo.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\drawable\\ic_focus_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_storm.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\storm.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\layout_item_session.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\layout\\item_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\drawable_bg_gradient.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "com.example.focustimer.app-merged_res-43:/drawable_bg_dynamic_gradient.xml.flat",
+        "source": "com.example.focustimer.app-main-45:/drawable/bg_dynamic_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_fireplace.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\fireplace.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\drawable_bg_gradient_focus.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\drawable\\bg_gradient_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_rain.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\rain.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_wind.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\wind.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\drawable_bg_dynamic_gradient.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\drawable\\bg_dynamic_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\drawable_ic_focus_bg.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\drawable\\ic_focus_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_forest.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\forest.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\drawable_ic_statistics.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\drawable\\ic_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\layout_activity_statistics.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_monk.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\monk.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\drawable_ic_focus_foreground.xml.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\drawable\\ic_focus_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_lofi.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\lofi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-merged_res-43:\\raw_clock.mp3.flat",
+        "source": "C:\\Users\\thiag\\.gradle\\daemon\\8.6\\com.example.focustimer.app-main-45:\\raw\\clock.mp3"
+    }
+]

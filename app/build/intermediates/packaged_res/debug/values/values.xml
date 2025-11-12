@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_options">
+        <item>Rain</item>
+        <item>Forest</item>
+        <item>Ocean</item>
+        <item>Coffee Shop</item>
+        <item>Fireplace</item>
+        <item>Wind</item>
+        <item>Lo-Fi Beats</item>
+        <item>Clock</item>
+        <item>Monk Chant</item>
+        <item>Storm</item>
+    </string-array>
+    <color name="accent">#22D3EE</color>
+    <color name="accent_alt">#38BDF8</color>
+    <color name="background_primary">#0F172A</color>
+    <color name="background_secondary">#1E293B</color>
+    <color name="danger">#EF4444</color>
+    <color name="ic_launcher_background">#001B3C</color>
+    <color name="success">#10B981</color>
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_secondary">#94A3B8</color>
+    <string name="app_name">FocusTimer</string>
+    <string name="reset">Reset</string>
+    <string name="start_focus">Start Focus</string>
+    <string name="stats">Statistics</string>
+    <style name="FocusButton" parent="FocusButton.Base"/>
+    <style name="FocusButton.Base">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:paddingHorizontal">28dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:elevation">6dp</item>
+        <item name="android:backgroundTintMode">src_over</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+    <style name="FocusButton.Blue" parent="FocusButton.Base">
+        <item name="android:backgroundTint">#4A90E2</item>
+    </style>
+    <style name="FocusButton.Gray" parent="FocusButton.Base">
+        <item name="android:backgroundTint">#607D8B</item>
+    </style>
+    <style name="FocusButton.Green" parent="FocusButton.Base">
+        <item name="android:backgroundTint">#27AE60</item>
+    </style>
+    <style name="FocusButton.Red" parent="FocusButton.Base">
+        <item name="android:backgroundTint">#C0392B</item>
+    </style>
+    <style name="FocusButton.Yellow" parent="FocusButton.Base">
+        <item name="android:backgroundTint">#F5A623</item>
+    </style>
+    <style name="Theme.FocusTimer" parent="Theme.Material3.Dark.NoActionBar">
+        
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        
+        <item name="colorSecondary">@color/accent_alt</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        
+        <item name="android:colorBackground">@color/background_primary</item>
+        <item name="colorSurface">@color/background_secondary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        
+        <item name="android:statusBarColor">@color/background_primary</item>
+        <item name="android:navigationBarColor">@color/background_primary</item>
+    </style>
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_dynamic_gradient"
+    tools:context=".presentation.main.MainActivity">
+
+    <!-- Título -->
+    <TextView
+        android:id="@+id/textAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FocusTimer"
+        android:textColor="@android:color/white"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-medium"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="48dp"
+        android:alpha="0.9"/>
+
+    <!-- Timer -->
+    <TextView
+        android:id="@+id/textViewTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="25:00"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="64sp"
+        android:fontFamily="sans-serif-condensed-light"
+        app:layout_constraintTop_toBottomOf="@id/textAppName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="60dp"
+        android:shadowColor="#70000000"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="8"/>
+
+    <!-- Spinner de sons -->
+    <Spinner
+        android:id="@+id/spinnerSounds"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/textViewTimer"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/spinner_background"
+        android:popupBackground="#1E1E1E"/>
+
+    <!-- Botões principais -->
+    <LinearLayout
+        android:id="@+id/buttonRow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/spinnerSounds"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="40dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/buttonStart"
+            android:text="Start"
+            style="@style/FocusButton.Blue"/>
+
+        <Button
+            android:id="@+id/buttonReset"
+            android:text="Reset"
+            style="@style/FocusButton.Yellow"/>
+
+        <Button
+            android:id="@+id/buttonSettings"
+            android:text="⚙"
+            style="@style/FocusButton.Gray"/>
+    </LinearLayout>
+
+    <!-- Botões inferiores -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="60dp">
+
+        <Button
+            android:id="@+id/buttonStats"
+            android:text="📊 Stats"
+            style="@style/FocusButton.Green"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/buttonClose"
+            android:text="✖ Close"
+            style="@style/FocusButton.Red"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
